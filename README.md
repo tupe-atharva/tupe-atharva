@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on open source projects, ML and DL projects with a niche in Dev.
 - 📫 How to reach me ... mailto : roweratharva@gmail.com
-- ⚡ Fun fact: ... not eveyone who codes, enjoys it 😛
+- ⚡ Fun fact: ... only those who do not know how to code think that AI will replace them
 
 <!---
 tupe-atharva/tupe-atharva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

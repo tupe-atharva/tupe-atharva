@@ -5,8 +5,12 @@
  # Hey There👋, I am Atharva Tupe.
 - 👀 I’m proficient in **frontend development** and **DSA**
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on open source projects, ML and DL projects with a niche in Dev.
-- 📫 How to reach me ... mailto : roweratharva@gmail.com
+- 💞️ I’m looking to collaborate on open source ML and DL projects with a niche in Dev.
+- 📫 **Connect with me**
+
+     [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
 - ⚡ Fun fact: ... only those who do not know how to code think that AI will replace them
 
 <!---
